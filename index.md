@@ -65,9 +65,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
   </tr>
    <tr>
     <td><center><a href="">A</a></center></td>
-    <td><a href="">B</a></td>
-    <td><a href="">C</a></td>
-    <td><a href="">D</a></td>
+    <td><center><a href="">B</a></center></td>
+    <td><center><a href="">C</a></center></td>
+    <td><center><a href="">D</a></center></td>
   </tr>
 </table>
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
