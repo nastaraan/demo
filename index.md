@@ -46,6 +46,30 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 /********
 
+<table>
+  <tr>
+    <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
+  </tr>
+  <tr>
+    <th colspan="2"><center><img src="" alt="" border='3' height='140' width='140' /></center></th>
+    <th colspan="3"><a href="https://nastaraan.github.io/test2/">S O</a></th>
+  </tr>
+  <tr>
+    <td colspan="5"><center><span style="font-weight:bold">Teaching Assistants</span></center></td>
+  </tr>
+  <tr>
+    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+    <td><img src="" alt="" border='3' height='120' width='120' /></td>
+  </tr>
+   <tr>
+    <td><a href="">A</a></td>
+    <td><a href="">B</a></td>
+    <td><a href="">C</a></td>
+    <td><a href="">D</a></td>
+  </tr>
+</table>
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 /repos/{owner}/{repo}/contributors
