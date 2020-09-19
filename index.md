@@ -64,7 +64,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
     <td><img src="" alt="" border='3' height='120' width='120' /></td>
   </tr>
    <tr>
-    <td><a href="">A</a></td>
+    <td><center><a href="">A</a></center></td>
     <td><a href="">B</a></td>
     <td><a href="">C</a></td>
     <td><a href="">D</a></td>
